@@ -7,6 +7,6 @@
   "repository": "git://github.com/pushrax/node-xdcc",
   "main": "lib/xdcc",
   "dependencies": {
-    "irc": ">=0.3.0"
+    "irc": "git+https://github.com/jdrouet/node-irc.git"
   }
 }
